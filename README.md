@@ -82,36 +82,4 @@ Design → Development
 └── JavaScript
 ```
 
----
 
-## Featured Work
-
-### ✦ Product Design Projects
-
-> Case studies and selected product design work coming soon.
-
-I'm currently building and documenting projects that demonstrate my process from **problem definition and wireframing to high-fidelity UI and interactive prototypes**.
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xeniaaa-dev&show_icons=true&hide_border=true&theme=transparent" alt="Christine's GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniaaa-dev&layout=compact&hide_border=true&theme=transparent" alt="Christine's most used languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### Let's create thoughtful digital experiences.
-
-**Product Design · UI/UX · Web · Mobile**
-
-[GitHub](https://github.com/xeniaaa-dev)
-
-</div>
